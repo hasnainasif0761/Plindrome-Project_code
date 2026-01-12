@@ -90,6 +90,9 @@
 
 let getElemAtt = document.getElementById('cid');
 
+    console.log('Your Attributes get is =>',getElemAtt.hasAttribute('class'));
+
+
 
 
 
