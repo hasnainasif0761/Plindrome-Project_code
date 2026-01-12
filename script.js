@@ -40,8 +40,6 @@
 // console.log(howMany);
 
 
-
-
 // let liElement = document.getElementsByTagName('li');
 
 // let howMany = liElement.length
@@ -52,7 +50,6 @@
 //         liElement[i].innerHTML = "Comming Soon";
 //     }
 // }
-
 
 
 // function checkWord(){
