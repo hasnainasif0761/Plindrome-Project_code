@@ -32,7 +32,6 @@
 // console.log(a);
 
 
-
 // let liElement = document.getElementsByTagName('li');
 
 // let howMany = liElement.length
