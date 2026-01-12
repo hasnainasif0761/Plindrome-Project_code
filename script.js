@@ -103,9 +103,9 @@
 
 // *********************** Set Attributes Value ****************** //
 
-let setVal = document.getElementById('cid');
+// let setVal = document.getElementById('cid');
 
-console.log('Your answere is =>',setVal.setAttribute('onClick','function()'));
+// console.log('Your answere is =>',setVal.setAttribute('onClick','function()'));
 
 
 
