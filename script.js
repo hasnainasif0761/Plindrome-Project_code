@@ -101,7 +101,20 @@
 // console.log('Your Answere is =>',val.getAttribute('href'));
 
 
-// *********************** 
+// *********************** Set Attributes Value ****************** //
+
+let setVal = document.getElementById('cid');
+
+console.log('Your answere is =>',setVal.setAttribute('onClick','function()'));
+
+
+
+
+
+
+
+
+
 
 
 
