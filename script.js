@@ -88,6 +88,9 @@
 
 
 
+let getElemAtt = document.getElementById('cid');
+
+
 
 
 
