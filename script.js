@@ -96,6 +96,14 @@
 // ************* Check Attribute Value ******************** //
 
 
+// let val = document.getElementById('cid');
+
+// console.log('Your Answere is =>',val.getAttribute('href'));
+
+
+// *********************** 
+
+
 
 
 
