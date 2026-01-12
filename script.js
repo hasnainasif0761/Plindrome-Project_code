@@ -88,9 +88,26 @@
 
 
 
-let getElemAtt = document.getElementById('cid');
+// let getElemAtt = document.getElementById('cid');
 
-    console.log('Your Attributes get is =>',getElemAtt.hasAttribute('class'));
+//     console.log('Your Attributes get is =>',getElemAtt.hasAttribute('class'));
+
+
+// ************* Check Attribute Value ******************** //
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
